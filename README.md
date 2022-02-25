@@ -1,6 +1,6 @@
-# meditation_app
+# Meditation App
 
-In Flutter, I created this meditation app using "just_audio" package
+In Flutter, I created this Meditation app using "just_audio" package
 
 ## Demo
 
