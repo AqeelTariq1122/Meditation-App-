@@ -1,6 +1,10 @@
 # meditation_app
 
-A new Flutter project.
+In Flutter, I created this meditation app using "just_audio" package
+
+## Demo
+
+![meditation](https://user-images.githubusercontent.com/81378260/155660667-643c423d-6b85-443f-8595-f8671dec852c.png)
 
 ## Getting Started
 
